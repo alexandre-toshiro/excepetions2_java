@@ -1,4 +1,4 @@
-# Excepetions_java
+# Exceptions_java
 
 Exercício de fixação(Exeções)
 Fazer um programa para ler os dados de uma conta bancária e depois realizar um
